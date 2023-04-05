@@ -1,0 +1,15 @@
+D:\BAITAP\WINFORMSCSHARP\WinformsAppExercises\WinformsAppExercises\bin\Debug\WinformsAppExercises.exe.config
+D:\BAITAP\WINFORMSCSHARP\WinformsAppExercises\WinformsAppExercises\bin\Debug\WinformsAppExercises.exe
+D:\BAITAP\WINFORMSCSHARP\WinformsAppExercises\WinformsAppExercises\bin\Debug\WinformsAppExercises.pdb
+D:\BAITAP\WINFORMSCSHARP\WinformsAppExercises\WinformsAppExercises\obj\Debug\WinformsAppExercises.csproj.AssemblyReference.cache
+D:\BAITAP\WINFORMSCSHARP\WinformsAppExercises\WinformsAppExercises\obj\Debug\WinformsAppExercises.csproj.SuggestedBindingRedirects.cache
+D:\BAITAP\WINFORMSCSHARP\WinformsAppExercises\WinformsAppExercises\obj\Debug\WinformsAppExercises.Properties.Resources.resources
+D:\BAITAP\WINFORMSCSHARP\WinformsAppExercises\WinformsAppExercises\obj\Debug\WinformsAppExercises.csproj.GenerateResource.cache
+D:\BAITAP\WINFORMSCSHARP\WinformsAppExercises\WinformsAppExercises\obj\Debug\WinformsAppExercises.csproj.CoreCompileInputs.cache
+D:\BAITAP\WINFORMSCSHARP\WinformsAppExercises\WinformsAppExercises\obj\Debug\WinformsAppExercises.exe
+D:\BAITAP\WINFORMSCSHARP\WinformsAppExercises\WinformsAppExercises\obj\Debug\WinformsAppExercises.pdb
+D:\BAITAP\WINFORMSCSHARP\WinformsAppExercises\WinformsAppExercises\obj\Debug\WinformsAppExercises.frmDangNhap.resources
+D:\BAITAP\WINFORMSCSHARP\WinformsAppExercises\WinformsAppExercises\obj\Debug\WinformsAppExercises.frmTrangChu.resources
+D:\BAITAP\WINFORMSCSHARP\WinformsAppExercises\WinformsAppExercises\obj\Debug\WinformsAppExercises.ucGiaiPT.resources
+D:\BAITAP\WINFORMSCSHARP\WinformsAppExercises\WinformsAppExercises\obj\Debug\WinformsAppExercises.ucNhanVien.resources
+D:\BAITAP\WINFORMSCSHARP\WinformsAppExercises\WinformsAppExercises\obj\Debug\WinformsAppExercises.ucSoLonNhat.resources
